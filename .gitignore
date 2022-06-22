@@ -1,0 +1,6 @@
+/.idea
+.phpcs-cache
+composer.lock
+composer.phar
+/vendor/
+*.ignore.*
